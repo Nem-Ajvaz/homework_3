@@ -12,7 +12,7 @@ function generatePassword() {
 
   // Password Length
   if (
-    typeof inputPrompt !== "number" ||
+    typeof passwordLength !== "number" ||
     passwordLength < 8 ||
     passwordLength > 128
   ) {
