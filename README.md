@@ -20,19 +20,19 @@ Conditional special characters
 
 Input
 
-![Number less than 8](/asset/images/screenshots/Less-than-8.png)
-![Greater than 128](/asset/images/screenshots/More-than-128.png)
-![Please choose between 8 and 128](/asset/images/screenshots/Enter-correct-value.png)
+![Number less than 8](/assets/images/screenshots/Less-than-8.png)
+![Greater than 128](/assets/images/screenshots/More-than-128.png)
+![Please choose between 8 and 128](/assets/images/screenshots/Enter-correct-value.png)
 
 Include
 
-![Include Numbers](/asset/images/screenshots/Include-numbers.png)
-![Include Special Characters](/asset/images/screenshots/Include-special-chars.png)
-![Include Lower Case](/asset/images/screenshots/Include-lowercase.png)
-![Include Upper Case](/asset/images/screenshots/Include-uppercase.png)
+![Include Numbers](/assets/images/screenshots/Include-numbers.png)
+![Include Special Characters](/assets/images/screenshots/Include-special-chars.png)
+![Include Lower Case](/assets/images/screenshots/Include-lowercase.png)
+![Include Upper Case](/assets/images/screenshots/Include-uppercase.png)
 
 Password Generation
-![Generated password](asset/images/screenshots/Generated-password.png)
+![Generated password](assets/images/screenshots/Generated-password.png)
 
 ## Issues faced
 
